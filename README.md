@@ -43,6 +43,8 @@ Model Training
 
 Model Tuning
 
+Model Evaluations
+
 # Key Findings From Eda---
 
 The number of people who will default their payment is much less than number of people of people who will pay on time
