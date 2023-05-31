@@ -32,10 +32,15 @@ The research aims at developing a mechanism to predict the credit card default b
 # Operations performed--
 
 Removing null and duplicates
+
 Feature Engineering
+
 Handling Outliers
+
 EDA
+
 Model Training
+
 Model Tuning
 
 # Key Findings From Eda---
