@@ -24,6 +24,34 @@ CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigne
 
 Country: Country name. Nominal, the name of the country where each customer resides.
 
+# Steps Performed--
+
+Checking null and duplicate values and remove duplicate and drop null values
+
+Feature engineering--
+
+1. converting invoice date to datetime
+2. Extracting month and day from invoice day
+3. Multiplying quantity and unit price to get total price
+
+Exploratory Data Analysis
+1. Univariate
+2. Bivariate
+3. Multivariate
+
+Model Building--
+
+1. RFM model
+2. K-Means
+3. DBSCAN
+4. Hierarchical Clustering
+
+Finding optimal cluster---
+1. Elbow
+2. Silhouette
+3. Dendogram
+ 
+
 # Summary And Conclusion of project
 
 Firstly we did clustering based on RFM analysis. We had 4 clusters/Segmentation of customers based on RFM score.
