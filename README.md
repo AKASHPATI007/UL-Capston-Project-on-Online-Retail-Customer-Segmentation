@@ -39,5 +39,16 @@ Silver customers=981(high recency, low frequency and low spendings)
 Bronz customers=770 (very high recency but very less frequency and spendings)
 
 Later we implemented the machine learning algorithms to cluster the customers.
-image.png
+
+![image](https://github.com/AKASHPATI007/UL-Capston-Project-on-Online-Retail-Customer-Segmentation/assets/113876908/76b43ea4-af9f-49ae-9344-92e1eb23ead6)
+
+![image](https://github.com/AKASHPATI007/UL-Capston-Project-on-Online-Retail-Customer-Segmentation/assets/113876908/cfd732c3-8208-47b7-8a8d-124fa34fb080)
+
+Above clustering is done with recency,frequency and monetary data(Kmeans Clustering) as all 3 together will provide more information.
+
+Cluster 0 has high recency rate but very low frequency and monetary. Cluster 0 conatins 2414 customers.
+
+Cluster 1 has low recency rate but they are frequent buyers and spends very high money than other customers as mean monetary value is very high.Thus generates more revnue to the retail business
+
+With this, we are done.Also, we can use more robust analysis for the clustering, using not only RFM but other metrics such as demographics or product features.
 
